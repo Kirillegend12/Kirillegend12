@@ -33,8 +33,6 @@ This GitHub page is a place where I document my learning journey, share projects
 - 🧠 I believe consistency beats intensity when learning new skills  
 
 
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
@@ -50,15 +48,6 @@ This GitHub page is a place where I document my learning journey, share projects
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kirillegend12&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
 
 
 
