@@ -27,10 +27,13 @@ This GitHub page is a place where I document my learning journey, share projects
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Open to opportunities in Data Analytics and Business Intelligence  
-  
+- 🔭 Completed the IBM Data Analyst Professional Certificate
 
-- 🧠 I believe consistency beats intensity when learning new skills  
+- 🅰️ Earned the official Alteryx Certification
+
+- 🧠 I believe consistency beats intensity when learning new skills
+
+- 👨‍🎓 Started university at the age of 17
 
 
 
